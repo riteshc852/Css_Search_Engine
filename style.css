@@ -9,41 +9,59 @@ input[value="tim carr" i] ~ #results #result0:before,
 input[value="tim carry" i] ~ #results #result0:before{
  content: "Tim Carry";
  display: block;
+ display: inline-block;
+    width: 150px;               /* desired width */
+    height: 150px;              /* desired height */
+    background-image: url("tim.png");
+    background-size: cover;    /* scales image */
+    background-repeat: no-repeat;
+    margin-top:40px ;
+    color:#722323;
 }
-input[value="r" i] ~ #results #result0:before,
-input[value="ri" i] ~ #results #result0:before,
-input[value="rit" i] ~ #results #result0:before,
-input[value="rite" i] ~ #results #result0:before,
-input[value="rites" i] ~ #results #result0:before,
-input[value="ritesh" i] ~ #results #result0:before,
-input[value="ritesh " i] ~ #results #result0:before,
-input[value="ritesh c" i] ~ #results #result0:before,
-input[value="ritesh ch" i] ~ #results #result0:before,
-input[value="ritesh cha" i] ~ #results #result0:before,
-input[value="ritesh chau" i] ~ #results #result0:before,
-input[value="ritesh chauh" i] ~ #results #result0:before,
-input[value="ritesh chauha" i] ~ #results #result0:before,
-input[value="ritesh chauhan" i] ~ #results #result0:before,
-input[value="ritesh" i] ~ #results #result1:before {
- content: "Ritesh Chauhan";
+input[value="e" i] ~ #results #result0:before,
+input[value="er" i] ~ #results #result0:before,
+input[value="ere" i] ~ #results #result0:before,
+input[value="eren" i] ~ #results #result0:before,
+input[value="eren " i] ~ #results #result0:before,
+input[value="eren j" i] ~ #results #result0:before,
+input[value="eren ja" i] ~ #results #result0:before,
+input[value="eren jae" i] ~ #results #result0:before,
+input[value="eren jaeg" i] ~ #results #result0:before,
+input[value="eren jaege" i] ~ #results #result0:before,
+input[value="eren jaeger" i] ~ #results #result0:before {
+ content: "Eren Jaeger";
+   display: inline-block;
+    width: 150px;               /* desired width */
+    height: 150px;              /* desired height */
+    background-image: url("eren.png");
+    background-size: cover;    /* scales image */
+    background-repeat: no-repeat;
+    margin-top:40px ;
+    color:#722323;
+
  display:block;
 }
-input[value="r" i ]~ #results #result2:before,
-input[value="ra" i ]~ #results #result2:before,
-input[value="raj" i ]~ #results #result2:before,
-input[value="raju" i ]~ #results #result2:before,
-input[value="raju " i ]~ #results #result2:before,
-input[value="raju c" i ]~ #results #result2:before,
-input[value="raju ch" i ]~ #results #result2:before,
-input[value="raju cha" i ]~ #results #result2:before,
-input[value="raju chau" i ]~ #results #result2:before,
-input[value="raju chaur" i ]~ #results #result2:before,
-input[value="raju chaura" i ]~ #results #result2:before,
-input[value="raju charas" i ]~ #results #result2:before,
-input[value="raju charasi" i ]~ #results #result2:before,
-input[value="raju charasiy" i ]~ #results #result2:before,
-input[value="raju chaurasiya" i] ~ #results #result2:before {
- content: "Raju Chaurasiya";
+input[value="e" i ]~ #results #result2:before,
+input[value="et" i ]~ #results #result2:before,
+input[value="eth" i ]~ #results #result2:before,
+input[value="ethan" i ]~ #results #result2:before,
+input[value="ethan " i ]~ #results #result2:before,
+input[value="ethan w" i ]~ #results #result2:before,
+input[value="ethan wi" i ]~ #results #result2:before,
+input[value="ethan win" i ]~ #results #result2:before,
+input[value="ethan wint" i ]~ #results #result2:before,
+input[value="ethan winte" i ]~ #results #result2:before,
+input[value="ethan winter" i ]~ #results #result2:before,
+input[value="ethan winters" i ]~ #results #result2:before{
+ content: "Ethan Winters";
+   display: inline-block;
+    width: 150px;               /* desired width */
+    height: 150px;              /* desired height */
+    background-image: url("ethan.png");
+    background-size: cover;    /* scales image */
+    background-repeat: no-repeat;
+    margin-top:40px ;
+    color:#722323;
  display:block;
 }
 input[value="t" i] ~ #results #result3:before,
@@ -60,6 +78,14 @@ input[value="trevor sant" i] ~ #results #result3:before,
 input[value="trevor santa" i] ~ #results #result3:before {
  content: "Trevor Santa";
  display:block;
+ display: inline-block;
+    width: 150px;               /* desired width */
+    height: 150px;              /* desired height */
+    background-image: url("Trevor.png");
+    background-size: cover;    /* scales image */
+    background-repeat: no-repeat;
+    margin-top:40px;
+    color:#2c0d0d;
 }
 input[value="m" i] ~ #results #result4:before,
 input[value="mi" i] ~ #results #result4:before,
@@ -76,8 +102,16 @@ input[value="michael fara" i] ~ #results #result4:before,
 input[value="michael farad" i] ~ #results #result4:before,
 input[value="michael farada" i] ~ #results #result4:before,
 input[value="michael faraday" i] ~ #results #result4:before {
- content: "Michael Faraday";
- display:block;
+    content: "Michael Faraday";
+    display:block;
+    display: inline-block;
+    width: 150px;               /* desired width */
+    height: 150px;              /* desired height */
+    background-image: url("Michael.png");
+    background-size: cover;    /* scales image */
+    background-repeat: no-repeat;
+    margin-top:40px ;
+    color:#722323;
 }
 input[value="m" i] ~ #results #result5:before,
 input[value="mi" i] ~ #results #result5:before,
@@ -91,8 +125,15 @@ input[value="midoriya " i] ~ #results #result5:before,
 input[value="midoriya i" i] ~ #results #result5:before,
 input[value="midoriya iz" i] ~ #results #result5:before,
 input[value="midoriya izu" i] ~ #results #result5:before {
- content: "Midoriya Izu";
- display:block;
+    content: "Midoriya Izu ";
+    display: inline-block;
+    width: 150px;               /* desired width */
+    height: 150px;              /* desired height */
+    background-image: url("midoriya.png");
+    background-size: cover;    /* scales image */
+    background-repeat: no-repeat;
+    margin-top:40px ;
+    color:#722323;
 }
 *{
     margin: 0;
@@ -103,5 +144,11 @@ input[value="midoriya izu" i] ~ #results #result5:before {
     justify-content: center;
     margin-top: 20px;    
     height: 5vh;
-    
 }
+body{
+    background-color:#FDFFB8;
+}
+/* #searchbox #results div{
+    height: 20vh;
+    width: 10vw;
+} */
