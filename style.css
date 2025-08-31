@@ -1,0 +1,107 @@
+input[value="t" i] ~ #searchbox #results #result0:before,
+input[value="ti" i] ~ #results #result0:before,
+input[value="tim" i] ~ #results #result0:before,
+input[value="tim " i] ~ #results #result0:before,
+input[value="tim c" i] ~ #results #result0:before,
+input[value="tim ca" i] ~ #results #result0:before,
+input[value="tim car" i] ~ #results #result0:before,
+input[value="tim carr" i] ~ #results #result0:before,
+input[value="tim carry" i] ~ #results #result0:before{
+ content: "Tim Carry";
+ display: block;
+}
+input[value="r" i] ~ #results #result0:before,
+input[value="ri" i] ~ #results #result0:before,
+input[value="rit" i] ~ #results #result0:before,
+input[value="rite" i] ~ #results #result0:before,
+input[value="rites" i] ~ #results #result0:before,
+input[value="ritesh" i] ~ #results #result0:before,
+input[value="ritesh " i] ~ #results #result0:before,
+input[value="ritesh c" i] ~ #results #result0:before,
+input[value="ritesh ch" i] ~ #results #result0:before,
+input[value="ritesh cha" i] ~ #results #result0:before,
+input[value="ritesh chau" i] ~ #results #result0:before,
+input[value="ritesh chauh" i] ~ #results #result0:before,
+input[value="ritesh chauha" i] ~ #results #result0:before,
+input[value="ritesh chauhan" i] ~ #results #result0:before,
+input[value="ritesh" i] ~ #results #result1:before {
+ content: "Ritesh Chauhan";
+ display:block;
+}
+input[value="r" i ]~ #results #result2:before,
+input[value="ra" i ]~ #results #result2:before,
+input[value="raj" i ]~ #results #result2:before,
+input[value="raju" i ]~ #results #result2:before,
+input[value="raju " i ]~ #results #result2:before,
+input[value="raju c" i ]~ #results #result2:before,
+input[value="raju ch" i ]~ #results #result2:before,
+input[value="raju cha" i ]~ #results #result2:before,
+input[value="raju chau" i ]~ #results #result2:before,
+input[value="raju chaur" i ]~ #results #result2:before,
+input[value="raju chaura" i ]~ #results #result2:before,
+input[value="raju charas" i ]~ #results #result2:before,
+input[value="raju charasi" i ]~ #results #result2:before,
+input[value="raju charasiy" i ]~ #results #result2:before,
+input[value="raju chaurasiya" i] ~ #results #result2:before {
+ content: "Raju Chaurasiya";
+ display:block;
+}
+input[value="t" i] ~ #results #result3:before,
+input[value="tr" i] ~ #results #result3:before,
+input[value="tre" i] ~ #results #result3:before,
+input[value="trev" i] ~ #results #result3:before,
+input[value="trevo" i] ~ #results #result3:before,
+input[value="trevor" i] ~ #results #result3:before,
+input[value="trevor " i] ~ #results #result3:before,
+input[value="trevor s" i] ~ #results #result3:before,
+input[value="trevor sa" i] ~ #results #result3:before,
+input[value="trevor san" i] ~ #results #result3:before,
+input[value="trevor sant" i] ~ #results #result3:before,
+input[value="trevor santa" i] ~ #results #result3:before {
+ content: "Trevor Santa";
+ display:block;
+}
+input[value="m" i] ~ #results #result4:before,
+input[value="mi" i] ~ #results #result4:before,
+input[value="mic" i] ~ #results #result4:before,
+input[value="mich" i] ~ #results #result4:before,
+input[value="micha" i] ~ #results #result4:before,
+input[value="michae" i] ~ #results #result4:before,
+input[value="michael" i] ~ #results #result4:before,
+input[value="michael " i] ~ #results #result4:before,
+input[value="michael f" i] ~ #results #result4:before,
+input[value="michael fa" i] ~ #results #result4:before,
+input[value="michael far" i] ~ #results #result4:before,
+input[value="michael fara" i] ~ #results #result4:before,
+input[value="michael farad" i] ~ #results #result4:before,
+input[value="michael farada" i] ~ #results #result4:before,
+input[value="michael faraday" i] ~ #results #result4:before {
+ content: "Michael Faraday";
+ display:block;
+}
+input[value="m" i] ~ #results #result5:before,
+input[value="mi" i] ~ #results #result5:before,
+input[value="mid" i] ~ #results #result5:before,
+input[value="mido" i] ~ #results #result5:before,
+input[value="midor" i] ~ #results #result5:before,
+input[value="midori" i] ~ #results #result5:before,
+input[value="midoriy" i] ~ #results #result5:before,
+input[value="midoriya" i] ~ #results #result5:before,
+input[value="midoriya " i] ~ #results #result5:before,
+input[value="midoriya i" i] ~ #results #result5:before,
+input[value="midoriya iz" i] ~ #results #result5:before,
+input[value="midoriya izu" i] ~ #results #result5:before {
+ content: "Midoriya Izu";
+ display:block;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#searchbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;    
+    height: 5vh;
+    
+}

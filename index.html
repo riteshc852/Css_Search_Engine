@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css - Search Engine</title>
+</head><link rel="stylesheet" href="style.css">
+
+<body>
+    <label for="Search-bar">
+        <!-- 
+        this means the input tag 
+        this.value = live input value 
+        setAttribute = this feed the string in the input tag value = "...." 
+
+        
+        -->
+        <div id="searchbox">
+            <input type="search" value="" oninput="this.setAttribute('value' ,this.value)">
+            <div id="results">
+                <div id="result0"></div>
+                <div id="result1"></div>
+            <div id="result2"></div>
+            <div id="result3"></div>
+            <div id="result4"></div>
+            <div id="result5"></div>
+        </div>
+            <!--
+            <div id="result6"></div>
+            <div id="result7"></div>
+            <div id="result8"></div>
+            <div id="result9"></div> -->
+        </div>
+    </label>
+</body>
+</html>
